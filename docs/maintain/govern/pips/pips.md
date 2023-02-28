@@ -71,7 +71,7 @@ Take a look at the flowchart that explains how the PIP process works.
 
 There are four types of PIPs that differ based on the changes the author wants to introduce. More specifically:
 
-- The **Core** category is for changes to the Heimdall and Bor protocols, which are the backbone of the Polygon network. This category is for discussing, proposing, and implementing modifications to these protocols to improve the overall functioning of the Polygon network.\
+- The **Core** category is for changes to the Heimdall and Bor protocols, which are the backbone of the Polygon network. This category is for discussing, proposing, and implementing modifications to these protocols to improve the overall functioning of the Polygon network.
 
   Examples include but are not limited to:
 
