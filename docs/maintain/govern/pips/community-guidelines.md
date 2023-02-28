@@ -46,33 +46,13 @@ ask yourself whether it aligns with the values presented above and the guideline
 
 ### Guidelines
 
-Much like the blockchain itself, the Polygon community does not discriminate against
-participants based on their color, sexual orientation, gender, nationality, or background.
-Therefore, we will not tolerate any derogatory comments whatsoever.
-
-Let's work together to build a strong and inclusive community that promotes growth, innovation,
-and the success of the Polygon ecosystem!
-
-Guidelines 
------------
-
 Much like the blockchain itself, the Polygon community does not discriminate against participants based on their colour, sexual orientation, gender, nationality, or background. In this respect, we will not tolerate any derogatory comments whatsoever. 
 
-This amounts to comments in regard to users:
-
--   Race
-
--   Gender
-
--   Sexual orientation
-
--   Nationality
-
--   Age
+This amounts to comments in regard to users' race, gender, sexual orientation, nationality or age.
 
 This is not an exhaustive list, and you should keep in mind the following guidelines when posting anything in the Forum.
 
-###  When on the Polygon community Forum, you should:
+###  When on the Polygon Community Forum, you should:
 
 1.  Be tolerant towards others' viewpoints. When you disagree, do it respectfully. 
 
@@ -104,8 +84,8 @@ Failing to adhere to the above mentioned rules may result in a permanent ban.
 
 1.  Click on the flag icon below the offending post.
 
-2.  Select a category and click on the 'Flag Post'. 
+2.  Select a category and click on the **Flag Post**. 
 
-3.  A forum moderator will soon be reviewing the content marked.
+3.  A forum moderator will soon be reviewing the flagged content.
 
-Welcome to the Polygon community Forum!! We are looking forward to building with you! 💜
+Welcome to the Polygon Community Forum!! We are looking forward to building with you! 💜
