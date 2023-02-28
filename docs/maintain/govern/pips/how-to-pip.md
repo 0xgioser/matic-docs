@@ -39,19 +39,19 @@ A Polygon Improvement Proposal (PIP) is a design document that proposes new feat
 
 1.  Choose a topic: Choose a topic that you want to propose a change for. It could be a new feature, an improvement, or a novel standard.
 
-1.  Research and gather information: Gather information about the topic, including relevant background information, technical details, and any relevant existing solutions or standards.
+2.  Research and gather information: Gather information about the topic, including relevant background information, technical details, and any relevant existing solutions or standards.
 
-1.  Write the PIP: We suggest using the PIP template provided in the [GitHub repository](https://github.com/maticnetwork/Polygon-Improvement-Proposals). The template includes sections for introduction, motivation, specification, and rationale.
+3.  Write the PIP: We suggest using the PIP template provided in the [GitHub repository](https://github.com/maticnetwork/Polygon-Improvement-Proposals). The template includes sections for introduction, motivation, specification, and rationale.
 
-1.  Gather feedback: Share your PIP with the Polygon community on the Polygon community Forum and get feedback from experts, developers, and users. You can do this by sharing the PIP on forums, social media, or by reaching out to relevant individuals.
+4.  Gather feedback: Share your PIP with the Polygon community on the Polygon community Forum and get feedback from experts, developers, and users. You can do this by sharing the PIP on forums, social media, or by reaching out to relevant individuals.
 
-1.  Submit the PIP: Submit the PIP to the Polygon Improvement Proposal repository on Github.
+5.  Submit the PIP: Submit the PIP to the Polygon Improvement Proposal repository on Github.
 
-1.  Revise and finalize: Revise your PIP based on the feedback you receive and finalize it.
+6.  Revise and finalize: Revise your PIP based on the feedback you receive and finalize it.
 
-1.  Community review: The Polygon community will review the PIP and provide feedback. You may need to revise the PIP based on the feedback received.
+7.  Community review: The Polygon community will review the PIP and provide feedback. You may need to revise the PIP based on the feedback received.
 
-1.  Approval: If the PIP is approved, it will be included in the Polygon protocol.
+8.  Approval: If the PIP is approved, it will be included in the Polygon protocol.
 
 ### Polygon Improvement Proposal (PIP) vs Polygon Request for Comments (PRC)
 
@@ -67,11 +67,11 @@ The PIP Editors will work with you to make sure that your proposal meets the PIP
 
 ### Here are some tips that will help you with moving the PIP forward!
 
--   Use the [Polygon community Forum](https://forum.polygon.technology/tag/pip) to engage with the community.
+-   Use the [Polygon Community Forum](https://forum.polygon.technology/tag/pip) to engage with the community.
 
 -   Reach out to projects that are relevant to your proposal and ask them for feedback and ideas! 
 
-Tip: Under the Verified Group in the Polygon Forum you will find a wide range of Dapps and projects deployed on PolygonPoS. 
+Tip: Under the Verified Group in the Polygon Forum you will find a wide range of dApps and projects deployed on Polygon PoS. 
 
 -   Write an article about the relevance of the PIP, explain your rationale, inspiration and how it can be used to improve the protocol/community. 
 
